@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to TrelaBank accounts related QA APIs"
+  message: "Welcome to TrelaBank accounts related Quality Assurance APIs"
   contactDetails:
     name: "Example QA Contact"
     email: "{cipher}7b5637712265bf86d5c9ac2a9241cd902fd51ba4803189343cc5930208c7d7cd089f80d524bdca760d2b3dd53799449a"
