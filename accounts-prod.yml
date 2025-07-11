@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to TrelaBank accounts related prod APIs"
   contactDetails:
-    name: "Example prod Contact"
+    name: "Example prod Contacto"
     email: "example.prod.contact@gmail.com"
   onCallSupport:
     - (123) 416-7890
