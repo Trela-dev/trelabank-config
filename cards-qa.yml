@@ -3,7 +3,7 @@ build:
 
 
 cards:
-  message: "Welcome to TrelaBank cards related QA APIs"
+  message: "Welcome to TrelaBank cards related QA APIs!"
   contactDetails:
     name: "Example QA Contact"
     email: "example.qa.contact@gmail.com"
