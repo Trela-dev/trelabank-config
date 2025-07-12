@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to TrelaBank accounts related local APIs"
+  message: "Welcome to TrelaBank accounts related local APIs:)"
   contactDetails:
     name: "Marcin Trela Developer"
     email: "marcin.trela.dev@gmail.com"
